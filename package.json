@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khattakdev/nodejs.git"
+  },
+  "author": "Arsalan Khattak <akkhattak65@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khattakdev/nodejs/issues"
+  },
+  "homepage": "https://github.com/khattakdev/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.6"
+  }
+}
